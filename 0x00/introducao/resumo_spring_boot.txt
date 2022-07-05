@@ -1,3 +1,5 @@
 Spring boot é um framework que possibilita o desenvolvimento de microserviços, facilitando o desenvolvimento atravez de anotaçoes que fazer a inserção de contrutores e metodos, conecção com banco e outras verificaçoes dentro do fluxo de uma API para
 os beneficios é deixar o desenvolvimento mais agil, poder dividir os serviços em camadas e organizar a aplicação com apoio do framework, a injeção de novas dependencias é feita atravez do POM.xml assim como a definição de nome do projeto e outras configs
 a IDE que eu uso para desenvolvimento é o intelliJ
+
+resumo_spring_boot.txt
