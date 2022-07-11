@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/0x04/JPA+H2_database" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x05/MegaSenaAPI" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x06/api-rest-userController" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/main/ resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/main/java.com.example.calculator" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
