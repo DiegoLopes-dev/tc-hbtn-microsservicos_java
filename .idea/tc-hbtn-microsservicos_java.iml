@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x05/MegaSenaAPI" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x06/api-rest-userController" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
