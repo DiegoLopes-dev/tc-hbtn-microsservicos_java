@@ -1,4 +1,4 @@
-ackage com.example.calculator.model;
+package model;
 
 import java.time.LocalDate;
 import java.time.Period;
