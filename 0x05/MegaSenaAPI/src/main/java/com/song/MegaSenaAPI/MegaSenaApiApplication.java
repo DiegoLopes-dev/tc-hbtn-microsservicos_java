@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.com.song.MegaSenaAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

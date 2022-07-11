@@ -1,4 +1,4 @@
-package com.song.MegaSenaAPI;
+package src.main.java.com.song.MegaSenaAPI;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

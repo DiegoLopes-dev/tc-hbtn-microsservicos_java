@@ -1,4 +1,4 @@
-package src.main.java;
+package src.main.java.com.song.MegaSenaAPI;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
