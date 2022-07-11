@@ -61,4 +61,3 @@ public class CalculatorTest {
         Assertions.assertEquals(4,calculator.calculeDayBetweenDate(d1,d2));
     }
 }
-Footer
