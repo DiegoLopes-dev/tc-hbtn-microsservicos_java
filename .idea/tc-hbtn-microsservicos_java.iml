@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/0x06/api-rest-userController" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x07/api-rest-calculator/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/0x08/ProductAPI/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x08/ProductAPI/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/0x08/ProductAPI/src/test/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
